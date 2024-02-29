@@ -62,7 +62,7 @@ Widget build(BuildContext context) {
           answer(false);
           nextQus();
 
-        });}, child: Text('false')),
+        });}, child: Text('False')),
         Text(result),
       ],
     ),
