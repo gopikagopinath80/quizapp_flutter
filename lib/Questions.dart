@@ -57,7 +57,7 @@ Widget build(BuildContext context) {
         TextButton(onPressed: (){setState(() {
           answer(true);
           nextQus();
-        });}, child: Text('true')),
+        });}, child: Text('True')),
         TextButton(onPressed: (){setState(() {
           answer(false);
           nextQus();
